@@ -5,7 +5,7 @@
     "displayName": "Muaz",
     "profession": "Fullstack Developer",
     "location": "Malaysia",
-    "pronouns": null,
+    "pronouns": "Yeagerist",
     "byline": "Fullstack Developer in Malaysia",
     "website": "https://bento.me/muazazmen",
     "websiteURL": "https://bento.me/muazazmen",
@@ -203,8 +203,34 @@
   "features": [],
   "workExperience": [
     {
+      "id": "3d10xtPC28viJpMpzcHE",
+      "year": "2025 — Now",
+      "heading": "Data Programmer at PETRONAS",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Data Programmer",
+      "company": "PETRONAS",
+      "location": "Tower 3, KLCC, Kuala Lumpur"
+    },
+    {
+      "id": "4d10xtPC28viJpMpzcHE",
+      "year": "2024 — 2025",
+      "heading": "GIS Developer at Gamuda Engineering Sdn Bhd",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "GIS Developer",
+      "company": "Gamuda Engineering Sdn Bhd",
+      "location": "Damansara Perdana, Selangor"
+    },
+    {
       "id": "4d10xtPC28viJpMpzcHS",
-      "year": "2024 — Now",
+      "year": "2024 — 2025",
       "heading": "Fullstack Developer at Krenovator Technology Sdn Bhd",
       "url": null,
       "collaborators": [],
@@ -362,14 +388,14 @@
     {
       "id": "nxB4ur3z8eBj0W6jAxLJ",
       "platform": "GitHub",
-      "handle": "themuaz97",
-      "url": "https://github.com/themuaz97"
+      "handle": "muazazmen",
+      "url": "https://github.com/muazazmen"
     },
     {
       "id": "Vw98tEA7nODg9apndr4g",
       "platform": "Figma",
-      "handle": "themuaz97",
-      "url": "https://figma.com/@themuaz97"
+      "handle": "muazazmen",
+      "url": "https://figma.com/@muazazmen"
     }
   ],
   "allCollections": [
@@ -377,8 +403,34 @@
       "name": "Work Experience",
       "items": [
         {
+          "id": "3d10xtPC28viJpMpzcHE",
+          "year": "2025 — Now",
+          "heading": "Data Programmer at PETRONAS",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Data Programmer",
+          "company": "PETRONAS",
+          "location": "Tower 3, KLCC, Kuala Lumpur"
+        },
+        {
+          "id": "4d10xtPC28viJpMpzcHE",
+          "year": "2024 — 2025",
+          "heading": "GIS Developer at Gamuda Engineering Sdn Bhd",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "GIS Developer",
+          "company": "Gamuda Engineering Sdn Bhd",
+          "location": "Damansara Perdana, Selangor"
+        },
+        {
           "id": "4d10xtPC28viJpMpzcHS",
-          "year": "2024 — Now",
+          "year": "2024 — 2025",
           "heading": "Fullstack Developer at Krenovator Technology Sdn Bhd",
           "url": null,
           "collaborators": [],
@@ -426,7 +478,7 @@
           "heading": "Resepsi",
           "url": null,
           "collaborators": [],
-          "description": "An event management system",
+          "description": "Digital Wedding Card System",
           "attachments": [],
           "type": "project",
           "title": "Resepsi",
@@ -719,14 +771,14 @@
         {
           "id": "nxB4ur3z8eBj0W6jAxLJ",
           "platform": "GitHub",
-          "handle": "themuaz97",
-          "url": "https://github.com/themuaz97"
+          "handle": "muazazmen",
+          "url": "https://github.com/muazazmen"
         },
         {
           "id": "Vw98tEA7nODg9apndr4g",
           "platform": "Figma",
-          "handle": "themuaz97",
-          "url": "https://figma.com/@themuaz97"
+          "handle": "muazazmen",
+          "url": "https://figma.com/@muazazmen"
         }
       ]
     }
